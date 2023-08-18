@@ -17,19 +17,19 @@ the main elements that we need to highlight in our report are:
 Revenue, Sales Quantity, the year and Cy date (month exactly)
 then from those elements, we extracted the: 
 1. Revenue by customer name
-1. sales Qty by customer name
-1. Revenue by market
-1. sales by market
-1. top 5 customers by revenue
-1. top 5 customer products
-1. Revenue Trend
+2. sales Qty by customer name
+3. Revenue by market
+4. sales by market
+5. top 5 customers by revenue
+6. top 5 customer products
+7. Revenue Trend
 
 then we added the total margin and calculated:
 1. profit % by market
-1. profit contribution
-1. profit contribution % by market
-1. Revenue contribution by market 
-1. a table that contains customer name, revenue, revenue contribution %, profit margin contribution, profit margin
+2. profit contribution
+3. profit contribution % by market
+4. Revenue contribution by market 
+5. a table that contains customer name, revenue, revenue contribution %, profit margin contribution, profit margin
 
 ## This dashboard could help in increasing the revenue by at least 7% in the next quarter.
 # Sales_Insight_business_analyst
